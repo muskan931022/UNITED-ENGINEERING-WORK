@@ -1,0 +1,263 @@
+#box{
+    font-size: 60px;
+    margin-top: 80px;
+    text-align: center;
+    color: blue;
+} 
+.product-1{
+   
+    height: 700px;
+    width: 48%;
+     background-color: aliceblue;
+
+    display: inline-block;
+     
+   
+}
+#box-2{
+     
+    margin-top: 5px;
+    border-radius: 10px;
+}
+#box-3{
+    color: blue;
+    text-align: center;
+}
+#bot-1{
+    height: 60px;
+    width: 180px;
+    font-size: 30px;
+    background-color:darkgreen;
+    border-radius: 10px;
+    color: white;
+    margin-left: 10px;
+    outline: none;
+    border: none;
+}
+#a{
+    color: white;
+}
+    #bot-2{
+    height: 60px;
+    width: 180px;
+    font-size: 30px;
+    background-color:chocolate;
+    border-radius: 10px;
+        color: white;
+        margin-left: 25px;
+        outline: none;
+    border: none;
+}
+        
+    #bot-3{
+    height: 60px;
+    width: 180px;
+    font-size: 30px;
+    background-color:darkslateblue;
+    border-radius: 10px;    
+    color: white;
+         margin-top: 20px;
+        margin-left: 100px;
+        outline: none;
+    border: none;
+        
+}
+.product-2{
+    
+    height: 700px;
+        width: 48%; 
+    margin-left: 20px;
+    background-color: aliceblue;
+
+     display: inline-block;
+     
+   
+} 
+.product-3{
+    
+    height: 700px;
+    width: 48%;
+     background-color: aliceblue;
+margin-top: 20px;
+    display: inline-block;
+     
+   
+}
+#box-4{
+     
+    margin-top: 5px;
+    border-radius: 10px;
+}
+#box-3{
+    color: blue;
+    text-align: center;
+}
+#bot-1{
+    height: 60px;
+    width: 180px;
+    font-size: 30px;
+    background-color:darkgreen;
+    border-radius: 10px;
+    color: white;
+    margin-left: 10px
+}
+#a{
+    color: white;
+}
+    #bot-2{
+    height: 60px;
+    width: 180px;
+    font-size: 30px;
+    background-color:chocolate;
+    border-radius: 10px;
+        color: white;
+        margin-left: 25px;
+}
+        
+    #bot-3{
+    height: 60px;
+    width: 180px;
+    font-size: 30px;
+    background-color:darkslateblue;
+    border-radius: 10px;    
+    color: white;
+         margin-top: 20px;
+        margin-left: 100px;
+        
+}
+.product-4{
+    
+    height: 700px;
+        width: 48%; 
+    margin-left: 20px;
+    background-color: aliceblue;
+margin-top: 20px;
+     display: inline-block;
+     
+   
+} 
+#box-6{
+    color: blue;
+    text-align: center;
+    
+}
+.product-5{
+    
+    height: 700px;
+    width: 48%;
+     background-color: aliceblue;
+margin-top: 20px;
+    display: inline-block;
+     
+   
+}
+#box-7{
+     
+    margin-top: 5px;
+    border-radius: 10px;
+}
+#box-3{
+    color: blue;
+    text-align: center;
+}
+#bot-1{
+    height: 60px;
+    width: 180px;
+    font-size: 30px;
+    background-color:darkgreen;
+    border-radius: 10px;
+    color: white;
+    margin-left: 10px
+}
+#a{
+    color: white;
+}
+    #bot-2{
+    height: 60px;
+    width: 180px;
+    font-size: 30px;
+    background-color:chocolate;
+    border-radius: 10px;
+        color: white;
+        margin-left: 25px;
+}
+        
+    #bot-3{
+    height: 60px;
+    width: 180px;
+    font-size: 30px;
+    background-color:darkslateblue;
+    border-radius: 10px;    
+    color: white;
+         margin-top: 20px;
+        margin-left: 100px;
+        
+}
+.product-6{
+   
+    height: 700px;
+        width: 48%; 
+    margin-left: 20px;
+    background-color: aliceblue;
+margin-top: 20px;
+     display: inline-block;
+     
+   
+} 
+#box-6{
+    color: blue;
+    text-align: center;
+    
+}
+
+#abc{
+   
+    font-size: 40px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.image{
+   
+    height: 300px;
+    width: 30%;
+    display: inline-block;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+#a{
+    
+    border-radius: 20px;
+
+}
+
+
+#b{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 50px;
+    
+}
+
+.gallery{
+    
+    height: 300px;
+    width: 270px;
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color: aliceblue;
+}
+body{
+	height: 300vh;
+
+}
+	
+.gsap-3{
+	}
+	
+
+
+
+

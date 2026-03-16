@@ -1,0 +1,442 @@
+  .box{
+            border: 2px solid red;
+        }
+        .container-1{
+            text-align: center;
+            font-size: 60px;
+            color: blue;
+            text-decoration:underline;
+    
+        }
+        .box-2{
+            font-size:16px;
+            text-align: center;
+        }
+        .products{
+           margin-left: 10px;
+            outline: none;
+					border: none;
+            margin-top: 10px;
+            
+        }
+          #abc{
+            border: 1px solid gray;
+            position: absolute;
+            display: none;
+            background-color: blue;
+            width: 310px;
+              top: 280px;
+        }
+        product-1{
+            border: 2PX solid red;
+              border-radius: 10px;
+            border: none;
+            outline: none;
+            background-color: blue;
+            color: white;
+            font-size: 16px;
+         
+            
+        }
+        #abc-1{
+            font-size: 20px;
+             color: white;
+            text-align: center;
+            
+        }  #abc-2{
+            font-size: 16px;
+             color: white;
+            text-align: center;
+            
+        }
+          #mm{
+            border: 1px solid gray;
+            position: absolute;
+            display: none;
+            background-color: blue;
+            width: 310px;
+              top: 280px;
+              left: 345px;
+        }
+        product-2{
+            border: 2PX solid red;
+              border-radius: 10px;
+            border: none;
+            outline: none;
+            background-color: blue;
+            color: white;
+            font-size: 18px;
+         
+            
+        }
+        #mm-1{
+            font-size: 20px;
+             color: white;
+            text-align: center;
+            
+        }  #mm-2{
+            font-size: 16px;
+             color: white;
+            text-align: center;
+            
+        }
+          #pro{
+            border: 1px solid gray;
+            position: absolute;
+            display: none;
+            background-color: blue;
+            width: 310px;
+              top: 280px;
+              left: 665px;
+        }
+        product-3{
+            border: 2PX solid red;
+              border-radius: 10px;
+            border: none;
+            outline: none;
+            background-color: blue;
+            color: white;
+            font-size: 30px;
+         
+            
+        }
+        #pro-1{
+            font-size: 20px;
+            color: white;
+            text-align: center;
+            
+        }  #pro-2{
+            font-size: 16px;
+             color: white;
+            text-align: center;
+        }
+         .box-3{
+            text-align: center;
+            font-size: 60px;
+            color: blue;
+            text-decoration:underline;
+    
+        }
+        .box-4{
+            font-size:18px;
+            text-align: center;
+        }
+        
+        .core-1{
+            
+            height: 550px;
+            width: 325px;
+            display: inline-block;
+            margin-top: 20px;
+            background-color:cornsilk;
+              border-radius: 20px;
+            position: relative;
+                 
+          
+        }
+.core-2{
+          
+            height: 550px;
+       width: 325px;
+     display: inline-block;
+     margin-top: 20px;
+    background-color: cornsilk;
+    border-radius: 20px;
+     position: relative;
+    margin-left: 5px;
+     
+                
+
+            
+    
+          
+        }
+.core-3{
+             
+            height: 550px;
+       width: 325px;
+     display: inline-block;
+     margin-top: 20px;
+    background-color: cornsilk; 
+      border-radius: 20px;
+     position: relative;
+     margin-left: 5px;
+     
+                
+    
+          
+        }
+        #md{
+            color: blue;
+             text-align: center;
+        }
+        #mdc{
+            font-size: 20px;
+            text-align: center;
+        }
+        #md-1{
+            color: blue;
+             text-align: center;
+        
+        }
+        #mdc-1{
+             font-size: 20px;
+            text-align: center;
+        }
+        
+        #md-2{
+            color: blue;
+             text-align: center;
+        }
+        #mdc-2{
+             font-size: 20px;
+            text-align: center;
+        }
+
+        .photo{
+             
+            height: 740px;
+            display: inline-block;
+            width: 500px;
+            margin-top: 30px;
+           
+        }
+        .about{
+            
+               height: 740px;
+            display: inline-block;
+             width: 500px;
+            margin-top: 30px;
+        }
+        #about-1{
+            color: blue;
+            text-align: center;
+            font-size: 50px;
+        }
+        #about-2{
+            
+            text-align: center;
+            font-size: 20px;
+        }
+        #about-3{
+            
+            text-align: center;
+            font-size: 20px;
+            margin-top: 10px;
+        }
+        #about-4{
+            color: blue;
+           text-align: center;
+            font-size: 50px;
+        }
+        #a{
+            text-align: center;
+            font-size: 20px; 
+        }  
+        #b{
+            text-align: center;
+            font-size: 20px; 
+        }  
+        #c{
+            text-align: center;
+            font-size: 20px; 
+        }
+        .our-1{
+            color: blue;
+            text-align: center;
+             font-size: 60px;
+            
+            text-decoration:underline;
+        }
+        .our-2{
+            font-size: 18px;
+            text-align: center;
+        }
+        .mm-7{
+            
+            height: 250px;
+            width: 310px;
+            display: inline-block;
+             background-color:cornsilk;
+            border-radius: 20px;
+             border-top-width: medium; 
+            border-top-color: blue;
+            position: relative;
+            margin-top: 30px;
+            margin-left: 10px;
+           
+           
+            
+        }
+         .mm-8{
+             
+            height: 250px;
+             width: 310px;
+            display: inline-block;
+              background-color:cornsilk;
+              border-radius: 20px;
+             position: relative;
+            margin-top: 30px;
+            margin-left: 10px;
+           
+            
+        }
+         .mm-3{
+             
+            height: 250px;
+             width: 310px;
+            display: inline-block;
+             background-color:cornsilk;
+              border-radius: 20px;
+             position: relative;
+            margin-top: 30px;
+            margin-left: 10px;
+            
+        }
+         .mm-4{
+             
+            height: 250px;
+             width: 310px;
+             display: inline-block;
+              background-color:cornsilk;
+              border-radius: 20px;
+             position: relative;
+            margin-top: 30px;
+            margin-left: 10px;
+            
+        }
+         .mm-5{
+              
+            height: 250px;
+             width: 310px;
+             display: inline-block;
+              background-color:cornsilk;
+              border-radius: 20px;
+             position: relative;
+            margin-top: 30px;
+            margin-left: 10px;
+            
+             
+        }
+         .mm-6{
+             
+            height: 250px;
+             width: 310px;
+             display: inline-block;
+              background-color:cornsilk;
+              border-radius: 20px;
+             position: relative;
+            margin-top: 30px;
+            margin-left: 10px;
+            
+        }
+        #mm-a{
+            color: blue;
+            text-align: center;
+            font-size: 40px;
+            margin-top: 10px;
+           
+        }
+         #mm-c{
+            color: blue;
+            text-align: center;
+            font-size: 40px;
+             margin-top: 10px;
+           
+        }
+         #mm-e{
+            color: blue;
+            text-align: center;
+            font-size: 40px;
+             margin-top: 10px;
+           
+        }
+         #mm-g{
+            color: blue;
+            text-align: center;
+            font-size: 40px;
+             margin-top: 10px;
+           
+        }
+         #mm-i{
+            color: blue;
+            text-align: center;
+            font-size: 40px;
+             margin-top: 10px;
+           
+        }
+         #mm-k{
+            color: blue;
+            text-align: center;
+            font-size: 40px;
+             margin-top: 10px;
+           
+        }
+        
+        
+        #mm-b{
+            text-align: center;
+            font-size: 30px;
+            margin-top: 10px;
+           
+        }
+        #mm-d{
+            text-align: center;
+            font-size: 30px;
+            margin-top: 10px;
+           
+        }
+        #mm-f{
+            text-align: center;
+            font-size: 30px;
+            margin-top: 10px;
+           
+        }
+        #mm-h{
+            text-align: center;
+            font-size: 30px;
+            margin-top: 10px;
+           
+        }
+        #mm-j{
+            text-align: center;
+            font-size: 30px;
+            margin-top: 10px;
+           
+        }
+        #mm-l{
+            text-align: center;
+            font-size: 30px;
+            margin-top: 10px;
+           
+        }
+        
+        #container-1{
+            position: fixed;
+            top:0%;
+            left: 0px;
+            z-index: 1;
+        }
+        
+        #container-2{
+            position: relative;
+            top: 50px;
+        }
+        
+        #container-3{
+            position: relative;
+            top: 100px;
+        }
+        
+        #container-4{
+            position: relative;
+            top: 140px;
+        }  
+        #container-5{
+            position: relative;
+            top: 200px;
+        }
+        #container-6{
+            position: relative;
+            top: 250px;
+        }

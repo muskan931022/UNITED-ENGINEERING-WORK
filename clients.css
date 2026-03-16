@@ -1,0 +1,316 @@
+#a{
+	color: blue;
+	text-align: center;
+	font-size: 60px;
+	margin-top: 100px;
+}
+#box{
+	text-align: center;
+	font-size: 18px;
+}
+
+.col{
+
+	margin-top: 20px;
+}
+.clients-1{
+	
+	height:320px;
+	width: 220px;
+	top: -60px;
+	display: inline-block;
+	text-align: center;
+	background-color: white;
+	position: relative;
+	border-radius: 20px;
+	background: white;
+	box-shadow: 5px 5px 10px rgb(115,91,91);
+}
+.clients-1:hover{
+	transform: translateY(15px);
+	box-shadow: 5px 5px 10px rgb(0,0,0);
+}
+
+
+.clients-2{
+	
+	height:320px;
+	width: 220px;
+	border-radius: 20px;
+	display: inline-block;
+	text-align: center;
+	background-color: white;
+	position: relative;
+	background: white;
+	box-shadow: 5px 5px 10px rgb(115,91,91);
+}
+.clients-2:hover{
+	transform: translateY(15px);
+	box-shadow: 5px 5px 10px rgb(0,0,0);
+}
+
+.clients-3{
+
+	height:320px;
+	width: 220px;
+	top: 37px;
+	display: inline-block;
+	text-align: center;
+	background-color: white;
+	position: relative;
+	border-radius: 20px;
+		background: white;
+	box-shadow: 5px 5px 10px rgb(115,91,91);
+}
+.clients-3:hover{
+	transform: translateY(15px);
+	box-shadow: 5px 5px 10px rgb(0,0,0);
+}
+
+.clients-4{
+	
+	height:320px;
+	width: 220px;
+	border-radius: 20px;
+	display: inline-block;
+	text-align: center;
+	background-color: white;
+	position: relative;
+	background: white;
+	box-shadow: 5px 5px 10px rgb(115,91,91);
+}
+.clients-4:hover{
+	transform: translateY(15px);
+	box-shadow: 5px 5px 10px rgb(0,0,0);
+}
+
+#tata {
+	color:blue;
+	text-align: center;
+}
+body{
+	height: 200vh;
+	
+}
+.clients-5{
+	
+	height:320px;
+	width: 220px;
+	top: -60px;
+	display: inline-block;
+	text-align: center;
+	background-color: white;
+	position: relative;
+	border-radius: 20px;
+	background: white;
+	box-shadow: 5px 5px 10px rgb(115,91,91);
+}
+.clients-5:hover{
+	transform: translateY(15px);
+	box-shadow: 5px 5px 10px rgb(0,0,0);
+}
+
+.clients-6{
+	;
+	height:320px;
+	width: 220px;
+	top: -60px;
+	display: inline-block;
+	text-align: center;
+	background-color: white;
+	position: relative;
+	border-radius: 20px;
+		background: white;
+	box-shadow: 5px 5px 10px rgb(115,91,91);
+}
+.clients-6:hover{
+	transform: translateY(15px);
+	box-shadow: 5px 5px 10px rgb(0,0,0);
+}
+
+.clients-7{
+
+	height:320px;
+	width: 220px;
+	border-radius: 20px;
+	
+	display: inline-block;
+	text-align: center;
+	background-color: white;
+	position: relative;
+	
+		background: white;
+	box-shadow: 5px 5px 10px rgb(115,91,91);
+}
+.clients-7:hover{
+	transform: translateY(15px);
+	box-shadow: 5px 5px 10px rgb(0,0,0);
+}
+
+.clients-8{	
+	height:320px;
+	width: 220px;
+	top: -62px;
+	display: inline-block;
+	text-align: center;
+	background-color: white;
+	position: relative;
+	border-radius: 20px;
+		background: white;
+	box-shadow: 5px 5px 10px rgb(115,91,91);
+
+}
+.clients-8:hover{
+	transform: translateY(15px);
+	box-shadow: 5px 5px 10px rgb(0,0,0);
+}
+
+#red{
+	border-radius: 20px;
+}
+
+.clients-9{
+	
+	height:320px;
+	width: 220px;
+	
+	display: inline-block;
+	text-align: center;
+	background-color: white;
+	position: relative;
+	border-radius: 20px;
+		background: white;
+	box-shadow: 5px 5px 10px rgb(115,91,91);
+}
+.clients-9:hover{
+	transform: translateY(15px);
+	box-shadow: 5px 5px 10px rgb(0,0,0);
+}
+
+.clients-10{
+	
+	height:320px;
+	width: 220px;
+	border-radius: 20px;
+	display: inline-block;
+	text-align: center;
+	background-color: white;
+	top: -34px;
+	position: relative;
+		background: white;
+	box-shadow: 5px 5px 10px rgb(115,91,91);
+}
+.clients-10:hover{
+	transform: translateY(15px);
+	box-shadow: 5px 5px 10px rgb(0,0,0);
+}
+
+.clients-11{
+	
+	height:320px;
+	width: 220px;
+	
+	top: -25px;
+	display: inline-block;
+	text-align: center;
+	background-color: white;
+	position: relative;
+	border-radius: 20px;
+		background: white;
+	box-shadow: 5px 5px 10px rgb(115,91,91);
+}
+.clients-11:hover{
+	transform: translateY(15px);
+	box-shadow: 5px 5px 10px rgb(0,0,0);
+}
+
+.clients-12{
+
+	height:320px;
+	width: 220px;
+	top:-60px;
+	border-radius: 20px;
+	display: inline-block;
+	text-align: center;
+	background-color: white;
+	position: relative;
+		background: white;
+	box-shadow: 5px 5px 10px rgb(115,91,91);
+}
+.clients-12:hover{
+	transform: translateY(15px);
+	box-shadow: 5px 5px 10px rgb(0,0,0);
+}
+
+.clients-13{
+
+	height:320px;
+	width: 220px;
+	
+	display: inline-block;
+	text-align: center;
+	background-color: white;
+	position: relative;
+	border-radius: 20px;
+		background: white;
+	box-shadow: 5px 5px 10px rgb(115,91,91);
+}
+.clients-13:hover{
+	transform: translateY(15px);
+	box-shadow: 5px 5px 10px rgb(0,0,0);
+}
+
+.clients-14{
+	
+	height:320px;
+	width: 220px;
+	border-radius: 20px;
+	display: inline-block;
+	text-align: center;
+	background-color: white;
+	position: relative;
+		background: white;
+	box-shadow: 5px 5px 10px rgb(115,91,91);
+}
+.clients-14:hover{
+	transform: translateY(15px);
+	box-shadow: 5px 5px 10px rgb(0,0,0);
+}
+
+.clients-15{
+	
+	height:320px;
+	width: 220px;
+	
+	top: -25px;
+	display: inline-block;
+	text-align: center;
+	background-color: white;
+	position: relative;
+	border-radius: 20px;
+		background: white;
+	box-shadow: 5px 5px 10px rgb(115,91,91);
+}
+.clients-15:hover{
+	transform: translateY(15px);
+	box-shadow: 5px 5px 10px rgb(0,0,0);
+}
+
+.clients-16{
+	
+	height:320px;
+	width: 220px;
+	
+	border-radius: 20px;
+	display: inline-block;
+	text-align: center;
+	background-color: white;
+	position: relative;
+		background: white;
+	box-shadow: 5px 5px 10px rgb(115,91,91);
+}
+.clients-16:hover{
+	transform: translateY(15px);
+	box-shadow: 5px 5px 10px rgb(0,0,0);
+}
+
